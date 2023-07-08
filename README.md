@@ -9,5 +9,5 @@
 |Contact page | ![Screenshot (710)](https://user-images.githubusercontent.com/93571457/190518832-3940893f-64cd-460d-8d22-7e6af27c5963.png) | 
 
 ## Future Scope
-- Improving UI 
+- Improving UI of website
 - Review section 
